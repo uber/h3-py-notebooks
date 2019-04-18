@@ -1,5 +1,7 @@
 H3-Python-notebooks
 =========
+|License|
+
 
 Welcome to h3 in Jupyter Notebooks!
 
