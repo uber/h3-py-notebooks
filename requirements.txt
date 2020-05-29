@@ -1,0 +1,7 @@
+h3
+
+jupyterlab
+pandas
+geopands
+matplotlib
+descartes
