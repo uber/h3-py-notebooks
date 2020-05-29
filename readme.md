@@ -10,10 +10,11 @@ geospatial indexing system.
 This repo is a gallery of Jupyter notebooks including H3 Python
 API tutorials, examples and visualizations.
 You can visualize them on
-[NBViewer](https://nbviewer.jupyter.org/github/uber/h3-py-notebooks/tree/master/),
+[NBViewer](https://nbviewer.jupyter.org/github/uber/h3-py-notebooks/tree/master/notebooks/),
 [mybinder](https://mybinder.org/v2/gh/uber/h3-py-notebooks/master?filepath=docs),
 or execute jupyter notebook from your own terminal.
-To execute notebooks locally, you need to install [`h3-py`](https://github.com/uber/h3-py).
+To execute notebooks locally, you need to install
+[`h3-py`](https://github.com/uber/h3-py).
 
 
 You are more than welcome to contribute new notebooks.
