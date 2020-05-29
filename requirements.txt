@@ -5,3 +5,4 @@ pandas
 geopandas
 matplotlib
 descartes
+folium
