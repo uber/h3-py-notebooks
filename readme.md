@@ -4,14 +4,14 @@
 
 Welcome to H3 in Jupyter Notebooks!
 
-[H3](https://github.com/uber/h3) is a hierarchical hexagonal
+[H3](https://h3geo.org/) is a hierarchical hexagonal
 geospatial indexing system.
 
 This repo is a gallery of Jupyter notebooks including H3 Python
 API tutorials, examples and visualizations.
 You can visualize them on
 [NBViewer](https://nbviewer.jupyter.org/github/uber/h3-py-notebooks/tree/master/notebooks/),
-[mybinder](https://mybinder.org/v2/gh/uber/h3-py-notebooks/master?filepath=docs),
+[mybinder](https://mybinder.org/v2/gh/uber/h3-py-notebooks/master?filepath=notebooks),
 or execute jupyter notebook from your own terminal.
 To execute notebooks locally, you need to install
 [`h3-py`](https://github.com/uber/h3-py).
