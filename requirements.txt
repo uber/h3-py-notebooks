@@ -6,3 +6,6 @@ geopandas
 matplotlib
 descartes
 folium
+rtree
+xarray
+rasterio
