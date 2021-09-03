@@ -1,5 +1,6 @@
 init: purge
-	virtualenv -p python3 env
+	python -m venv env
+	env/bin/pip install --upgrade pip wheel setuptools
 	env/bin/pip install -r requirements.txt
 
 purge:
