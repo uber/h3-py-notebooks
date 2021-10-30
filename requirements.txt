@@ -9,3 +9,4 @@ folium
 rtree
 xarray
 rasterio
+tabulate
